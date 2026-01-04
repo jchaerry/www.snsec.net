@@ -2,6 +2,8 @@
 services:
   jekyll:
     image: amirpourmand/al-folio:v0.15.0
+    container_name: www
+    restart: unless-stopped
     build: .
     # uncomment these if you are having this issue with the build:
     # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
@@ -13,9 +15,9 @@ services:
     #     USERID: # id -u
     #     USERNAME: # echo $USER
     ports:
-      - 8080:8080
-      - 35729:35729
+      - 82:8080
+      # - 35729:35729
     volumes:
-      - .:/srv/jekyll
+      - /mnt/naspool/home/seonghoon/www:/srv/jekyll
     environment:
-      - JEKYLL_ENV=development
+      - JEKYLL_ENV=production
