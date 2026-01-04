@@ -3,7 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: System and Network Security Lab. (SNSec Lab.) # the website title (if blank, full name will be used instead)
-first_name: SNSec Lab.
+short_title: System and Network Security Lab. # for footer link
+first_name: 
 middle_name:
 last_name: 
 contact_note: >

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Course information and teaching history
 nav: true
 nav_order: 4
@@ -17,19 +17,15 @@ nav_order: 4
 - 21100720-003: Algorithms, Fall 2025
   - [Course reviews from students](/teaching/course-reviews/21100720-003-Algorithms-Fall25/)
 - 21102524-003: Introduction to Computer Programming, Spring 2025
-  - 4.99/5.00
-  - [Course reviews from students](/teaching/course-reviews/21102524-003-ICP-Spring25/)
+  - 4.99/5.00 [Course reviews from students](/teaching/course-reviews/21102524-003-ICP-Spring25/)
 - 21105541-001: Data-Driven Security (Graduate School), Spring 2025
-  - [Course reviews from students](/teaching/course-reviews/21105541-001-DDS-Spring25/)
+  - 5.00/5.00 [Course reviews from students](/teaching/course-reviews/21105541-001-DDS-Spring25/)
 - 21102530-001: Server Administration and Security, Fall 2024
-  - 5.00/5.00
-  - [Course reviews from students](/teaching/course-reviews/21102530-001-SrvAdmSec-Fall24/)
+  - 5.00/5.00 [Course reviews from students](/teaching/course-reviews/21102530-001-SrvAdmSec-Fall24/)
 - 21102530-002: Server Administration and Security, Fall 2024
-  - 5.00/5.00
-  - [Course reviews from students](/teaching/course-reviews/21102530-002-SrvAdmSec-Fall24/)
+  - 5.00/5.00 [Course reviews from students](/teaching/course-reviews/21102530-002-SrvAdmSec-Fall24/)
 - 21100720-003: Algorithms, Fall 2024
-  - 4.95/5.00
-  - [Course reviews from students](/teaching/course-reviews/21100720-003-Algorithms-Fall24/)
+  - 4.95/5.00 [Course reviews from students](/teaching/course-reviews/21100720-003-Algorithms-Fall24/)
 
 ### Korea University
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2024
