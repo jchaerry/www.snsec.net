@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-04 19:39:22+09:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Course reviews from students are now available at [Course Reviews](/teaching/course-reviews/).

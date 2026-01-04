@@ -8,17 +8,26 @@ nav_order: 5
 ---
 
 # Instructor
+- 21102524-001: Introduction to Computer Programming, Spring 2026 (*exclusive section for AI Engineering freshmen of 2026*)
+- 21102524-003: Introduction to Computer Programming, Spring 2026
 - 21105590-001: System Security, Fall 2025
+  - [Course reviews from students](/teaching/course-reviews/21105590-001-SysSec-Fall25/)
 - 21100720-003: Algorithms, Fall 2025
+  - [Course reviews from students](/teaching/course-reviews/21100720-003-Algorithms-Fall25/)
 - 21102524-003: Introduction to Computer Programming, Spring 2025
   - 4.99/5.00
+  - [Course reviews from students](/teaching/course-reviews/21102524-003-ICP-Spring25/)
 - 21105541-001: Data-Driven Security (Graduate School), Spring 2025
+  - [Course reviews from students](/teaching/course-reviews/21105541-001-DDS-Spring25/)
 - 21102530-001: Server Administration and Security, Fall 2024
   - 5.00/5.00
+  - [Course reviews from students](/teaching/course-reviews/21102530-001-SrvAdmSec-Fall24/)
 - 21102530-002: Server Administration and Security, Fall 2024
   - 5.00/5.00
+  - [Course reviews from students](/teaching/course-reviews/21102530-002-SrvAdmSec-Fall24/)
 - 21100720-003: Algorithms, Fall 2024
   - 4.95/5.00
+  - [Course reviews from students](/teaching/course-reviews/21100720-003-Algorithms-Fall24/)
 - CYDF311: Attack & Defense---Theory and Practice, Korea University, Spring 2024
   - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
   - 4.95/5.00 [Course review from students](/assets/pdf/Spring24-CYDF311-Comment.pdf)
