@@ -1,7 +1,7 @@
-# Seonghoon Jeong
+### Seonghoon Jeong
 From September 2024, I work at Division of Artificial Intelligence Engineering, Sookmyung Women's University (SMWU), Seoul, Republic of Korea, as an assistant professor.
 
-## Research goal
+#### Research goal
 
 I investigate and address cybersecurity challenges in Internet service applications through a data-driven approach that utilizes machine learning and deep learning methodologies. I have experience in analyzing a wide range of valuable datasets obtained from real-world services, including massive online game, root DNS servers, mobile payment transaction data, and car hacking activities.
 
@@ -9,7 +9,7 @@ Recently, my focus has been on in-vehicle anomaly and intrusion detection---a re
 
 Now I'm dealing with an intrusion detection system that automatically interprets conducted attacks on automotive Ethernet.
 
-## Education
+#### Education
 
 * Ph.D., Information Security, Korea University, 2023 (Advisor: Prof. Huy Kang Kim)
 * M.S., Information Security, Korea University, 2017 (Advisor: Prof. Huy Kang Kim)

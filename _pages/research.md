@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research Projects
+title: projects
 description: Research projects and grants
 nav: true
 nav_order: 3

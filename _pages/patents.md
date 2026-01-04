@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /patents/
-title: Patents
+title: patents
 description: Patents and applications
-nav: true
-nav_order: 6
+nav: false
+nav_order: 2
 ---
 
 **Summary.** I have a total of 8 distinct patent items, with 4 patents registered in Korea and several applications filed both internationally and at home.

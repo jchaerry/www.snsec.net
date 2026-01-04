@@ -4,11 +4,13 @@ permalink: /teaching/
 title: Teaching
 description: Course information and teaching history
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
-# Instructor
-- 21102524-001: Introduction to Computer Programming, Spring 2026 (*exclusive section for AI Engineering freshmen of 2026*)
+## Instructor
+### Sookmyung Women's University
+- 21102524-001: Introduction to Computer Programming, Spring 2026 
+  - *exclusive section for AI Engineering freshmen of 2026*
 - 21102524-003: Introduction to Computer Programming, Spring 2026
 - 21105590-001: System Security, Fall 2025
   - [Course reviews from students](/teaching/course-reviews/21105590-001-SysSec-Fall25/)
@@ -28,17 +30,19 @@ nav_order: 5
 - 21100720-003: Algorithms, Fall 2024
   - 4.95/5.00
   - [Course reviews from students](/teaching/course-reviews/21100720-003-Algorithms-Fall24/)
-- CYDF311: Attack & Defense---Theory and Practice, Korea University, Spring 2024
-  - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
+
+### Korea University
+- CYDF311: Attack & Defense---Theory and Practice, Spring 2024
+  - Granite Tower Teaching Award `석탑강의상-비전임(자연계) 대표수상`, top 5% of student course evaluation in Korea University
   - 4.95/5.00 [Course review from students](/assets/pdf/Spring24-CYDF311-Comment.pdf)
-- CYDF311: Attack & Defense---Theory and Practice, Korea University, Spring 2023
-  - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
+- CYDF311: Attack & Defense---Theory and Practice, Spring 2023
+  - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea University
   - 5.87/6.00 [Course review from students](/assets/pdf/Spring23-CYDF311-Comment.pdf)
-- AICS308: Reverse Engineering, Sejong Campus of Korea University, Spring 2022
-  - Excellent Teaching Award `우수강의상`, top 20% of student course evaluation in Korea Univ.
+- AICS308: Reverse Engineering, Spring 2022
+  - Excellent Teaching Award `우수강의상`, top 20% of student course evaluation in Korea University
   - 5.67/6.00 [Course review from students](/assets/pdf/Spring22-AICS308-Comment.pdf)
 
-# Teaching Assistant
+## Teaching Assistant
 Lectured by Prof. Huy Kang Kim
 
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2021
@@ -57,7 +61,7 @@ Lectured by Prof. Kyounggon Kim
 Lectured by Dr. Sanghyun Cho, Chief Information Security Officer, NAVER Corp
 - CYDF211: System Programming, Spring 2018
 
-# Special Lecture and Seminar
+## Special Lecture and Seminar
 
 - Hands-on-practice: In-vehicle Infotainment System Hacking (Focused on Automotive Grade Linux OS)
   - hosted by The University of Queensland, May 2023
