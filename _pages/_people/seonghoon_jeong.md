@@ -3,11 +3,14 @@ From September 2024, I work at Division of Artificial Intelligence Engineering, 
 
 #### Research goal
 
-I investigate and address cybersecurity challenges in Internet service applications through a data-driven approach that utilizes machine learning and deep learning methodologies. I have experience in analyzing a wide range of valuable datasets obtained from real-world services, including massive online game, root DNS servers, mobile payment transaction data, and car hacking activities.
+I investigate and address cybersecurity challenges in Internet service applications through a data-driven approach that utilizes machine learning and deep learning methodologies. My research involves analyzing massive live data streams to secure computer systems and networks from evolving threats, leveraging experience with diverse datasets including massive online games, root DNS servers, mobile payment transactions, and car hacking activities. I have specialized in identifying and explaining intrusions in connected vehicles, notably employing anomaly detection techniques trained solely on benign data. (ORCID: [0000-0001-5638-2851](https://orcid.org/0000-0001-5638-2851))
 
-Recently, my focus has been on in-vehicle anomaly and intrusion detection---a research area that demands urgent attention, given the severe consequences of compromised vehicle systems. Specifically, I have developed a standardized intrusion prevention system for connected vehicles that offers practical solutions to both industry professionals and academic researchers.
+My current research interests center on **Trustworthy Network Intrusion Detection** using Foundation Models. I aim to move beyond simple classification accuracy to build systems that are robust, adaptive, and explainable. Key areas include:
+*   **Multi-modal Traffic Representation & Pre-training:** Integrating payload bytes, packet sequences, and protocol metadata to learn comprehensive traffic representations without information loss.
+*   **Drift Resilience & Efficient Adaptation:** Developing unsupervised metrics to detect concept drift in real-time and utilizing parameter-efficient fine-tuning (PEFT) to adapt models to new environments with minimal cost.
+*   **Generative & Causal Reasoning:** Applying generative AI to not only detect threats but also explain their causes (causal reasoning) and suggest response scenarios.
 
-Now I'm dealing with an intrusion detection system that automatically interprets conducted attacks on automotive Ethernet.
+I am currently working on an **Explainable Unsupervised IDS for Automotive Ethernet**, which applies these foundation model principles to secure in-vehicle networks against complex intrusions. I am also developing **DRIFT (Drift-Resilient Invariant-Feature Transformer)**, an advanced DGA detector. DRIFT employs a hybrid tokenization strategy (character + subword) and multi-task self-supervised pre-training to maintain robust detection performance against temporally evolving domain generation algorithms.
 
 #### Education
 
