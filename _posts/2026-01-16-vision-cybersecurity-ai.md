@@ -10,30 +10,22 @@ In light of the complex cybersecurity challenges faced in 2025, the role of data
 
 ### The Mission: Autonomous Proactive Resilience through System-Centric AI
 
-#### 1. The Core Philosophy: "Deep Telemetry is the New Ground Truth"
-While many labs focus on network traffic or high-level application logs, our advantage lies in the **"Deep Understanding of OS Internals"** (Linux/Windows/macOS).
+#### 1. Core Philosophy: System-Internal Observability as the Foundation
+Although many existing studies focus on network traffic or application-level logs, our research emphasizes a deep understanding of Operating System internals across Linux, Windows, and macOS. Our objective is to shift the paradigm from analyzing *post-mortem* logs (what happened) to monitoring *runtime* kernel-level states (what is happening).
 
-*   **The Goal:** Shift from analyzing *what happened* (logs) to *what is happening* (kernel-level telemetry).
-*   **The Methodology:** We utilize **eBPF (Linux), ETW (Windows), and Endpoint Security Framework (macOS)** to feed real-time system state vectors into deep learning models. This captures the "causal chain" of an attack (e.g., a process execution linked to a hidden network socket) rather than isolated events.
+To achieve this, we utilize **eBPF (Linux), ETW (Windows), and Endpoint Security Framework (macOS)** to feed real-time system state vectors into deep learning models. This approach enables us to capture the "causal chain" of an attack—such as a specific process execution linked to a hidden network socket—rather than analyzing isolated events in a vacuum.
 
-#### 2. Proactive Identification vs. Reactive Detection
-The 2025 Korean cyber incidents likely succeeded because they exploited the "detection gap"—the time between initial access and discovery.
+#### 2. From Reactive Detection to Proactive Threat Hunting
+The major cyber incidents of 2025 succeeded largely by exploiting the "detection gap"—the critical window between initial access and discovery. We aim to close this gap by developing **Predictive Threat Hunting** capabilities.
 
-*   **The Goal:** Developing **Predictive Threat Hunting**.
-*   **The Methodology:** Instead of looking for "attacks," we develop AI that monitors "System Entropy." By learning the baseline of complex server-side environments, the model can flag **"Pre-Attack Indicators"** (e.g., subtle changes in memory access patterns or unexpected privilege escalations) before the final payload is executed.
+Instead of scanning for known attack signatures, we develop AI models that monitor "System Entropy." By learning the baseline behavior of complex server-side environments, our models can flag **"Pre-Attack Indicators"**—such as nuanced changes in memory access patterns or unexpected privilege escalations—effectively neutralizing threats before the final payload is executed.
 
-#### 3. Multi-Modal "Foundation Models for Cybersecurity"
-Building on our expertise in server-side log analysis and deep learning, we are moving toward holistic system modeling.
+#### 3. Multi-Modal Foundation Models for Comprehensive Defense
+Building on our expertise in server-side log analysis and deep learning, we are moving toward holistic system modeling. Our goal is to transcend single-stream analysis by developing a **Cyber-Security Foundation Model (SecFM)**.
 
-*   **The Goal:** Moving beyond single-stream analysis.
-*   **The Methodology:** Developing a **Cyber-Security Foundation Model (SecFM)**. Just as LLMs understand language, our lab aims to develop models that understand the "Grammar of System Behavior." This model would co-embed:
-    1.  **Network Metadata** (Flow behavior)
-    2.  **System Telemetry** (Process/Thread/Syscall events)
-    3.  **Human/Application Logs** (Auth logs, API calls)
-*   By fusing these, the AI can perform **Causal Reasoning**—automatically interpreting *how* an attacker entered the network and *where* they are headed next.
+Just as Large Language Models (LLMs) understand natural language, we aim to develop models that comprehend the "Grammar of System Behavior." By co-embedding **Network Metadata**, **System Telemetry**, and **Application Logs**, our SecFM performs **Causal Reasoning** to automatically interpret the attack lifecycle—determining how an intruder breached the network and predicting their next lateral move.
 
-#### 4. Real-Time Autonomous Assessment (The "AI-First SOC")
-The ultimate role of our research is to remove the human bottleneck.
+#### 4. Real-Time Autonomous Infrastructure Assessment
+The ultimate role of our research is to eliminate the human bottleneck in security operations (SoC). We envision a **Self-Assessing Infrastructure** driven by AI.
 
-*   **The Goal:** **Self-Assessing Infrastructure.**
-*   **The Methodology:** We develop models that provide a continuous **"Cyber Health Score"** for live systems. This isn't a static scan; it’s a real-time assessment of the "Insecurity Delta"—how much the current system behavior has drifted from a trusted state.
+We are developing models that generate a continuous **"Cyber Health Score"** for live systems. Unlike static vulnerability scans, this provides a real-time assessment of the "Insecurity Delta," quantifying how much the current system state has drifted from its trusted baseline, thereby enabling autonomous integrity assurance.
