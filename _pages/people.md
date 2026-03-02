@@ -22,4 +22,8 @@ undergraduate_students:
   - align: right
     content: _people/jisoo_kim.md
     image_circular: false
+  - align: right
+    content: _people/semin_son.md
+    image_circular: false
 ---
+
