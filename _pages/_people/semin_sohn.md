@@ -1,4 +1,4 @@
-### Semin Son
+### Semin Sohn
 
 Her research interests include Artificial Intelligence and Software Reverse Engineering. She joined SNSec Lab as an undergraduate intern in March 2026.
 
