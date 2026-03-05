@@ -7,6 +7,10 @@ nav: true
 nav_order: 8
 ---
 
+## PythonJudgeSystem
+
+A dashboard for the PythonJudgeSystem for Introduction to Computer Programming (Spring 2026) will be available here soon.
+
 ## Infrastructure
 
 Hosts `*.infra.snsec.net` are accessible within the SNSec Lab intranet.
