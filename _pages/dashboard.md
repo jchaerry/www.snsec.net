@@ -8,10 +8,17 @@ nav_order: 8
 ---
 
 ## PythonJudgeSystem
+The source code for the custom python judge system is available on [GitHub](https://github.com/seonghoony/2026-PythonJudgeSystem-ICP).
 
-A dashboard for the PythonJudgeSystem for Introduction to Computer Programming (Spring 2026) will be available here soon.
+**[프로그래밍입문-001]({{ '/dashboard-icp-spring26/001' | relative_url }})**
+<iframe src="{{ '/dashboard-icp-spring26/001' | relative_url }}" style="border:solid 1px #777; width: 100%; max-width: 800px;" height="425" frameborder="0"></iframe>
+<br>
 
-## Infrastructure
+**[프로그래밍입문-003]({{ '/dashboard-icp-spring26/003' | relative_url }})**
+<iframe src="{{ '/dashboard-icp-spring26/003' | relative_url }}" style="border:solid 1px #777; width: 100%; max-width: 800px;" height="425" frameborder="0"></iframe>
+<br>
+
+## GPU Infrastructure
 
 Hosts `*.infra.snsec.net` are accessible within the SNSec Lab intranet.
 <iframe src="http://grafana.snsec.net/public-dashboards/ebbfe189bc7b44f78f052f7a309cbb44" width="800" height="600" frameborder="0"></iframe>
