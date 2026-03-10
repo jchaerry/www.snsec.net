@@ -10,12 +10,12 @@ nav_order: 8
 ## PythonJudgeSystem
 The source code for the custom python judge system is available on [GitHub](https://github.com/seonghoony/2026-PythonJudgeSystem-ICP).
 
-**[프로그래밍입문-001]({{ '/dashboard-icp-spring26/001' | relative_url }})**
-<iframe src="{{ '/dashboard-icp-spring26/001' | relative_url }}" style="border:solid 1px #777; width: 100%; max-width: 800px;" height="425" frameborder="0"></iframe>
+**[프로그래밍입문-001]({{ '/dashboard/icp-spring26/001' | relative_url }})**
+<iframe src="{{ '/dashboard/icp-spring26/001' | relative_url }}" style="border:solid 1px #777; width: 100%; max-width: 800px;" height="425" frameborder="0"></iframe>
 <br>
 
-**[프로그래밍입문-003]({{ '/dashboard-icp-spring26/003' | relative_url }})**
-<iframe src="{{ '/dashboard-icp-spring26/003' | relative_url }}" style="border:solid 1px #777; width: 100%; max-width: 800px;" height="425" frameborder="0"></iframe>
+**[프로그래밍입문-003]({{ '/dashboard/icp-spring26/003' | relative_url }})**
+<iframe src="{{ '/dashboard/icp-spring26/003' | relative_url }}" style="border:solid 1px #777; width: 100%; max-width: 800px;" height="425" frameborder="0"></iframe>
 <br>
 
 ## GPU Infrastructure
