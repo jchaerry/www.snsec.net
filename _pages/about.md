@@ -6,10 +6,10 @@ subtitle: Division of Artificial Intelligence Engineering, <a href='https://www.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: SNSecLab_2026.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Seonghoon Jeong</p>
+    <p>SNSec Lab. members (Feb 27, 2026)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
