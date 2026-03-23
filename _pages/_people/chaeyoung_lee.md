@@ -1,15 +1,15 @@
 ### Chaeyoung Lee
 
 #### Interests
-* **Core Tech**: Deep learning, NLP
-* **Security**: Data-driven security, Intrusion detection
-* **Safety & Trust**: Adversarial ML, Automotive Security
+* **Core Tech**: Deep Learning, NLP
+* **Security**: Data-driven Security, Intrusion Detection
+* **Safety & Trust**: Adversarial Machine Learning, Automotive Security
 
 #### Education
 * Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, 2023--Current
 
 #### Previous Affiliation & Activities
-* **DevOps Engineer**, [Snorose](https://www.snorose.com/) (University Community Platform)
+* **DevOps Engineer**, <a href="https://www.snorose.com/"><img src="/assets/img/snorose_logo.svg" style="height: 1.2em; vertical-align: text-bottom; margin-right: 0.1em;"></a> (a Sookmyung Women's University Community Platform)
   * Maintained scalable AWS infrastructure and CI/CD pipelines using GitHub Actions.
   * Built real-time monitoring systems (Prometheus, Grafana, Loki)
   * Cost measurement and optimization via automated Discord bots.
