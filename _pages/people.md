@@ -17,6 +17,7 @@ undergraduate_students:
     content: _people/chaeri_jung.md
     image_circular: false
   - align: right
+    image: 260322_1557_CYL.jpg
     content: _people/chaeyoung_lee.md
     image_circular: false
   - align: right
@@ -26,4 +27,11 @@ undergraduate_students:
     content: _people/semin_sohn.md
     image_circular: false
 ---
+
+<style>
+  .profile img[alt="260322_1557_CYL.jpg"] {
+    clip-path: inset(0 0 15% 0);
+    margin-bottom: -15%;
+  }
+</style>
 
