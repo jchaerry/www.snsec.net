@@ -27,14 +27,3 @@ undergraduate_students:
     content: _people/semin_sohn.md
     image_circular: false
 ---
-
-<style>
-  .profile img[alt="260322_1557_CYL.jpg"] {
-    clip-path: inset(0 0 15% 0);
-    margin-bottom: -50%;
-    width: 85%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
