@@ -21,6 +21,7 @@ undergraduate_students:
     content: _people/chaeyoung_lee.md
     image_circular: false
   - align: right
+    image: jisoo_kim.jpg
     content: _people/jisoo_kim.md
     image_circular: false
   - align: right
