@@ -14,6 +14,7 @@ professors:
 
 undergraduate_students:
   - align: right
+    image: chaeri_jung.jpg
     content: _people/chaeri_jung.md
     image_circular: false
   - align: right
