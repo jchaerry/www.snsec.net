@@ -49,8 +49,5 @@ We specialize in identifying and explaining intrusions in connected vehicles, no
 
 *   Bi-modal *Enhanced* Explainable IDS for Controller Area Network (with Dr. Hyunjae Kang)
 *   Explainable IDS for Automotive Ethernet (with Jisoo Kim)
-*   *Drift-Resilient* robust DGA domain name detection (with Chaeyoung Lee and Chaeri Jung)
 *   Meta-learning based few-shot IDS for IoT devices (with the University of Queensland)
 *   J1939 based IDS for connected vehicles (with Korea University)
-*   Robustifying DeepFake Detection against adversarial perturbations (with the University of Queensland)
-*   Vulnerability Assessment for ISO 15765-2 (with Korea University)
