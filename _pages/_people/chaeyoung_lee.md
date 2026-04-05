@@ -4,9 +4,10 @@
 * **Core Tech**: Deep Learning, NLP
 * **Security**: Data-driven Security, Intrusion Detection
 * **Safety & Trust**: Adversarial Machine Learning, Automotive Security
+* **Emerging Interests**: Data Poisoning, Machine Unlearning
 
 #### Education
-* Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, 2023--Current
+* Undergraduate Student, Division of Artificial Intelligence Engineering (minoring in Big Data), Sookmyung Women's University, 2023--Current
 
 #### Previous Affiliation & Activities
 * **DevOps Engineer**, <a href="https://www.snorose.com/"><img src="/assets/img/snorose_logo.svg" style="height: 1.2em; vertical-align: text-bottom; margin-right: 0.1em;"></a> (a Sookmyung Women's University Community Platform)
@@ -14,3 +15,7 @@
   * Built real-time monitoring systems (Prometheus, Grafana, Loki)
   * Cost measurement and optimization via automated Discord bots.
   * [Review on DevOps activities](https://snorose.notion.site/DevOps-2c07ef0aa3bf805e82c7e79dc847a952)
+
+#### GitHub Activity
+
+<img src="https://ghchart.rshah.org/003087/alwaysY0ung" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
