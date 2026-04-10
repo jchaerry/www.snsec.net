@@ -14,7 +14,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage of SNSec Lab.
 footer_text: >
-  seonghoon [at] sookmyung.ac.kr | Office: 수련교수회관 511 | Lab: 명신관 508A | Tel: +82-2-710-9427
+  seonghoon [at] sookmyung.ac.kr | Office: 새힘관 512 | Lab: 명신관 508A | Tel: +82-2-710-9427
 keywords: security, ai, research, sookmyung # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚀 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
