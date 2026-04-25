@@ -7,7 +7,7 @@ nav: false
 nav_order: 2
 ---
 
-**Summary.** I have a total of 8 distinct patent items, with 4 patents registered in Korea and several applications filed both internationally and at home.
+**Summary.** I have a total of 10 distinct patent items, with 6 patents registered in Korea and 3 registered in the US; several more applications are filed both internationally and at home.
 
 Apparatus and Method for Detecting Vehicle Intrusion
 - Korea, **Reg. No. 10-1853676**, Apr 2018
@@ -17,7 +17,7 @@ Device and Method for Analysing CAN Message Using OBD-II Query
 
 Device for Verifying Status and Detecting Anomaly of Vehicle and System Having the Same
 - PCT/KR2018/009508, Aug 2018
-- Korea, **Reg. No. 10-1995903**, Sep 2019
+- Korea, **Reg. No. 10-1995903**, Jun 2019
 
 Method for SDN-based Intrusion Response or Prevention for In-vehicle Network and System using the same
 - PCT/KR2020/010141, Jul 2020
@@ -33,11 +33,11 @@ Method for SDN-based Intrusion Response or Prevention for In-vehicle Network and
 
 Anomaly Detection Model Using Message ID Sequence on Unmanned Moving Objects
 - Korea, **Reg. No. 10-2476359**, Dec 2022
-- US, App. 17/532,272, Nov 2021
+- US, **Reg. No. US12444241B2**, Oct 2025
 
 Generative Adversarial Network Model and Training Method to Generate Message ID Sequence on Unmanned Moving Objects
-- Korea, Reg. No. 10-2691125, Jul 2024
-- US App. 17/532,226, Nov 2021
+- Korea, **Reg. No. 10-2691125**, Jul 2024
+- US, **Reg. No. 12,608,603**, Apr 2026
 
 Lightweight Real-Time Anomaly Detection Method Using CAN Message Analysis and Neural Network Model
 - Korea, App. No. 10-2021-0174328, Dec 2021
