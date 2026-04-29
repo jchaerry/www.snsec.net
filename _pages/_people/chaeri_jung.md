@@ -7,3 +7,7 @@
 
 #### Education
 * Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, 2023--Current
+
+#### GitHub Activity
+
+<img src="https://ghchart.rshah.org/003087/jchaerry" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />

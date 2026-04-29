@@ -16,3 +16,7 @@
   <a href="https://www.youtube.com/watch?v=UH0QcNP1qxc">
     <img src="/assets/img/jisoo_yt_thumbnail.jpg" alt="Sookmyung Brand Video 2026" style="width: 150px; display: block; margin-top: 10px;">
   </a>
+
+#### GitHub Activity
+
+<img src="https://ghchart.rshah.org/003087/sallysooo" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
