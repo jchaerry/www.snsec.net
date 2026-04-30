@@ -1,5 +1,7 @@
 ### Chaeri Jung
 
+<i class="fa-solid fa-envelope"></i> chaerry502 [a.t.] snsec.net
+
 #### Interests
 * **Core Tech**: Deep Learning, Self-Supervised Learning
 * **Security Focus**: Anomaly Detection, Intrusion Detection

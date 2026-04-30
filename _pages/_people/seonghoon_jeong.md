@@ -1,4 +1,7 @@
 ### Seonghoon Jeong
+
+<i class="fa-solid fa-envelope"></i> seonghoon [a.t.] snsec.net
+
 From September 2024, I work at Division of Artificial Intelligence Engineering, Sookmyung Women's University (SMWU), Seoul, Republic of Korea, as an assistant professor.
 
 #### Research goal

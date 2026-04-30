@@ -2,6 +2,10 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow:
+Disallow: /templates/
+Disallow: /template_projects/
+Disallow: /template-archive/
+Disallow: /projects_deprecated/
+Disallow: /_pages/
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml

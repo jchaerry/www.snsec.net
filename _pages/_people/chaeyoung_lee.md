@@ -1,5 +1,7 @@
 ### Chaeyoung Lee
 
+<i class="fa-solid fa-envelope"></i> amy8985 [a.t.] snsec.net
+
 #### Interests
 * **Core Tech**: Deep Learning, NLP
 * **Security**: Data-driven Security, Intrusion Detection

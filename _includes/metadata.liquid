@@ -20,6 +20,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+{% if page.robots %}
+  <meta name="robots" content="{{ page.robots }}">
+{% endif %}
 <title>
   {% if site.title == 'blank' %}
     {% capture title %}{{ author_name }}{% endcapture %}
@@ -240,7 +243,8 @@
         {% if sameaslinks != blank %}
         "sameAs": {{ sameaslinks | jsonify }},
         {% endif %}
-        "name": "{{ author_name }}",
+        "name": "{% if is_blog_post %}{{ author_name }}{% else %}{{ site.title }}{% endif %}",
+        "alternateName": "{{ site.short_title }}",
         "@context": "https://schema.org"
     }
   </script>
