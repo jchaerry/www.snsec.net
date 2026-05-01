@@ -2,10 +2,13 @@
 
 <i class="fa-solid fa-envelope"></i> minse [a.t.] snsec.net
 
-Her research interests include Artificial Intelligence and Software Reverse Engineering. She joined SNSec Lab as an undergraduate intern in March 2026.
+#### Interests
+* **Core Interests**: Deep Learning Architecture (Autoencoders), Database Systems
+* **Security Exploration**: Software Reverse Engineering, Data-driven Security
 
 #### Education
 * Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, 2024--Current
+* Double Major in Mathematics
 
 #### GitHub Activity
 

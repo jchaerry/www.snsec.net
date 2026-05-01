@@ -26,6 +26,7 @@ undergraduate_students:
     content: _people/jisoo_kim.md
     image_circular: false
   - align: right
+    image: semin_sohn.png
     content: _people/semin_sohn.md
     image_circular: false
 ---
