@@ -15,6 +15,20 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography">Journal &amp; Conference Papers</h2>
+
+{% bibliography -f papers %}
+
+<h2 class="bibliography">Datasets</h2>
+
+{% bibliography -f datasets %}
+
+<h2 class="bibliography">Standards &amp; Recommendations</h2>
+
+{% bibliography -f standards %}
+
+<h2 class="bibliography">Korean-Language Papers</h2>
+
+{% bibliography -f korean %}
 
 </div>
