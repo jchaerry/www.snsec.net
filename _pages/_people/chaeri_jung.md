@@ -12,4 +12,5 @@
 
 #### GitHub Activity
 
-<img src="https://ghchart.rshah.org/003087/jchaerry" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<img id="gh-chart-jchaerry" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<script>document.getElementById('gh-chart-jchaerry').src = 'https://ghchart.rshah.org/003087/jchaerry?' + Date.now();</script>

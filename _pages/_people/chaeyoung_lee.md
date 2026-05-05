@@ -20,4 +20,5 @@
 
 #### GitHub Activity
 
-<img src="https://ghchart.rshah.org/003087/alwaysY0ung" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<img id="gh-chart-alwaysY0ung" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<script>document.getElementById('gh-chart-alwaysY0ung').src = 'https://ghchart.rshah.org/003087/alwaysY0ung?' + Date.now();</script>

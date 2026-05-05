@@ -12,4 +12,5 @@
 
 #### GitHub Activity
 
-<img src="https://ghchart.rshah.org/003087/gosmdoch1" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<img id="gh-chart-gosmdoch1" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<script>document.getElementById('gh-chart-gosmdoch1').src = 'https://ghchart.rshah.org/003087/gosmdoch1?' + Date.now();</script>
