@@ -22,3 +22,17 @@ services:
       - /mnt/naspool/home/seonghoon/www:/srv/jekyll
     environment:
       - JEKYLL_ENV=production
+
+  webhook:
+    build:
+      context: .
+      dockerfile: Dockerfile.webhook
+    container_name: webhook
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+    volumes:
+      - /mnt/naspool/home/seonghoon/www:/srv/jekyll
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - WEBHOOK_SECRET=${WEBHOOK_SECRET}
