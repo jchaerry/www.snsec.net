@@ -30,4 +30,5 @@ Hosts `*.infra.snsec.net` are accessible within the SNSec Lab intranet.
 
 ## GitHub Activity
 
-<img src="https://ghchart.rshah.org/003087/seonghoony" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<img id="gh-chart-seonghoony" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<script>document.getElementById('gh-chart-seonghoony').src = 'https://ghchart.rshah.org/003087/seonghoony?' + Date.now();</script>

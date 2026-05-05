@@ -21,4 +21,5 @@
 
 #### GitHub Activity
 
-<img src="https://ghchart.rshah.org/003087/sallysooo" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<img id="gh-chart-sallysooo" alt="GitHub Contributions" style="width: 100%; max-width: 800px;" />
+<script>document.getElementById('gh-chart-sallysooo').src = 'https://ghchart.rshah.org/003087/sallysooo?' + Date.now();</script>
