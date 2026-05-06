@@ -2,6 +2,8 @@
 
 <i class="fa-solid fa-envelope"></i> chaerry502 [a.t.] snsec.net &nbsp;|&nbsp; <i class="ai ai-orcid"></i> [0009-0006-0247-5167](https://orcid.org/0009-0006-0247-5167)
 
+[Personal website](https://jchaerry.github.io/)
+
 #### Interests
 * **Core Tech**: Deep Learning, Self-Supervised Learning
 * **Security Focus**: Anomaly Detection, Intrusion Detection
@@ -9,6 +11,7 @@
 
 #### Education
 * Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, 2023--Current
+* Double Major in Big Data
 
 #### GitHub Activity
 
